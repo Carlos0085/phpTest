@@ -9,7 +9,7 @@
  
 <body> 
 	<?php include 'header.php';?>
-<h1>Encuesta de Retroalimentacion</h1>
+<h1>Encuesta de Retroalimentacion eldur</h1>
 <form action="ClienteData.php" id="fel" method="POST" onsubmit="" > 
 <hr/>  
 <p><label for="nombreUsuario" >Nombre:<input type="text" id="nombreUsuario" name="name" minlenght="5" required /> 
@@ -20,12 +20,12 @@
 </label></p> 
 <p><label for="uso">Aspectos que le gustaron:<br/> 
 	<select size="3" multiple="multiple" id="use"> 
-		<option value="diseño">Diseño</option> 
+		<option value="diseï¿½o">Diseï¿½o</option> 
 		<option value="Links">Links</option> 
 		<option value="Imagenes">Imagenes</option> 
 	</select> 
 </label></p> 
-<p><label for="op">¿Cómo llegó a este sitio?<br/> 
+<p><label for="op">ï¿½Cï¿½mo llegï¿½ a este sitio?<br/> 
 	<input type="radio" id="busqueda" name="op" value="Maquina de busqueda" class="radio"/>Maquina de busqueda
 	<input type="radio" id="libro" name="op" value="Referencia de un libro" class="radio"/>Referencia de un libro
 	<input type="radio" id="otro" name="op" value="Otro" class="radio"/>Otro

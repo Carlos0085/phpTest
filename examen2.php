@@ -9,7 +9,7 @@
  
 <body> 
 	<?php include 'header.php';?>
-<h1>Encuesta de Retroalimentacion eldur</h1>
+<h1>Encuesta de Retroalimentacion elderrdz salas</h1>
 <form action="ClienteData.php" id="fel" method="POST" onsubmit="" > 
 <hr/>  
 <p><label for="nombreUsuario" >Nombre:<input type="text" id="nombreUsuario" name="name" minlenght="5" required /> 
